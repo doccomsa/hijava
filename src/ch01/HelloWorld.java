@@ -4,8 +4,8 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("ÀÚ¹Ù 01");
-		System.out.println("ÀÚ¹Ù 02");
+		System.out.println("ìë°” 01");
+		System.out.println("ìë°” 02 ");
 
 	}
 
